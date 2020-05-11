@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "maatwebsite/excel": "*",
-        "anaseqal/nova-import": "dev-master"
+        "anaseqal/nova-import": "*"
     },
     "autoload": {
         "psr-4": {
