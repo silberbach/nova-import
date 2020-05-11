@@ -1,5 +1,5 @@
 {
-    "name": "anaseqal/nova-import",
+    "name": "silberbach/nova-import",
     "description": "A Laravel Nova tool.",
     "keywords": [
         "laravel",
@@ -8,7 +8,8 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "maatwebsite/excel": "*"
+        "maatwebsite/excel": "*",
+        "anaseqal/nova-import": "dev-master"
     },
     "autoload": {
         "psr-4": {
